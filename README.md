@@ -1,2 +1,2 @@
-# JavaScript Algorithms and Data Structures Certification for freeCodeCamp
-JavaScript 认证的各种项目
+# JavaScript 认证的各种项目
+JavaScript Algorithms and Data Structures Certification for freeCodeCamp
