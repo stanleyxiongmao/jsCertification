@@ -2,7 +2,7 @@
 您需要删除所有非字母数字字符（标点、空格和符号）并将所有内容转换为相同的大小写（小写或大写）以检查回文。
 */
 
-//这是一个快速的代码
+//快捷方式
 function palindrome(str) {
   let regex = /[A-Za-z0-9]+/g
   let target = str.match(reg).join("").toLowerCase()
